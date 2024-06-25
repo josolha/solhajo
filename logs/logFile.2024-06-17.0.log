@@ -1,0 +1,1 @@
+[2024-06-17 22:32:27:1297602084] INFO  10490 --- [nio-8081-exec-6] com.josolha.solhajo.util.LogUtil             : AuthException : org.springframework.security.authentication.InsufficientAuthenticationException: Full authentication is required to access this resource
